@@ -1,13 +1,17 @@
 <!-- ========================= Banner ========================= -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/xxxx-xxxx" width="180" height="180" style="border-radius: 50%;" alt="Profile Picture">
+  <a href="https://github.com/perfect224999-ops">
+    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/perfect224999-ops/Cel/main/tle.jpg&w=300&h=300&fit=cover&mask=circle&border=10,0284c7" width="160" height="160" alt="Banyaphon Phontha Profile" />
+  </a>
 </p>
+
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:BAE6FD,100:0284C7&height=250&section=header&text=Banyaphon%20Phontha&fontSize=42&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18&descColor=334155"
     width="100%"
   />
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
@@ -29,7 +33,7 @@
 
 # 🚀 เกี่ยวกับฉัน
 
-ผมชื่อเติ้ลครับ ใกล้จะจบชั้นปีที่ 4 แล้วและกำลังจะเข้าสู่ช่วงฝึกงาน ผมอยากที่จะฝึกงาน ในตำแหน่งของ Backend developer ครับ ผมอยากทำงานในตำแหน่งนี้เพราะว่า ผมชอบในส่วนของการทำงานหลังบ้านมากกว่าหน้าบ้านครับเพราะออกแบบไม่ค่อยเก่งเท่าไหร่แต่ก็พอไปได้ครับ ส่วนภาษาที่ผมได้เรียนมาในห้องเรียนก็มี java, Springboot, MySQL และส่วนที่ศึกษาด้วยตัวเองก็จะมี Next.js , TypeScript, RESTful APIs ที่กำลังศึกษาอยู่เรื่อยๆครับ
+ผมชื่อเติ้ลครับ ใกล้จะจบชั้นปีที่ 4 แล้วและกำลังจะเข้าสู่ช่วงฝึกงาน ผมอยากที่จะฝึกงาน ในตำแหน่งของ Backend developer ครับ ผมอยากทำงานในตำแหน่งนี้เพราะว่า ผมชอบในส่วนของการทำงานหลังบ้านมากกว่าหน้าบ้านครับเพราะออกแบบไม่ค่อยเก่งเท่าไหร่แต่ก็พอไปได้ครับ ส่วนภาษาที่ผมได้เรียนมาในห้องเรียนก็มี java, Springboot, MySQL และส่วนที่ศึกษาด้วยตัวเองก็จะมี Next.js, TypeScript, RESTful APIs ที่กำลังศึกษาอยู่เรื่อยๆครับ
 
 ---
 
@@ -66,13 +70,14 @@
 
 ## 📌 โปรเจกต์
 
-### แพลตฟอร์มการท่องเที่ยวอุทยานแห่งชาติอย่างยั่งยืน (GreenPass Thailand) `2568 - 2569`
-**รับผิดชอบหน้าที่ในส่วนของ Website Full-Stack Web Developer**
+### แพลตฟอร์มการท่องเที่ยวอุทยานแห่งชาติอย่างยั่งยืน `2568`
+**(GreenPass Thailand)** `2569`  
+**รับผิดชอบหน้าที่ในส่วนของ เว็บไซต์ Full-Stack Web Developer**
 
 🔗 **Github backend :** https://github.com/perfect224999-ops/GreenPass-Backend  
 🔗 **Github frontend :** https://github.com/perfect224999-ops/GreenPass-Frontend  
 
-**รับผิดชอบหลัก :** ออกแบบและพัฒนา Web Application แบบ Full-Stack ทั้งฝั่งผู้ใช้ทั่วไป เจ้าหน้าที่อุทยาน และ ผู้ดูแลระบบด้วย Next.js, Spring boot และ MySQL
+**รับผิดชอบหลัก :** ออกแบบและพัฒนา Web Application แบบ Full-Stack ทั้งฝั่งผู้ใช้ทั่วไป เจ้าหน้าที่อุทยาน และ ผู้ดูแลระบบ ด้วย Next.js, Spring boot และ MySQL
 
 - **Admin & Role Management :** ออกแบบและพัฒนา RESTful APIs สำหรับระบบจัดการสิทธิ์ผู้ใช้งาน และจัดการข้อมูลเจ้าหน้าที่อุทยาน รวมถึงระบบสะสมรางวัล
 - **Emergency & Incident Tracking :** พัฒนา API รับแจ้งเหตุฉุกเฉิน realtime และระบบติดตามสถานะ เพื่อประสานงานช่วยเหลือได้ทันที
@@ -85,7 +90,6 @@
 
 - **เข้ารอบรมเชิงปฏิบัติการเพื่อเรียนรู้กระบวนการทำงานแบบ Agile/Scrum (2568)**  
   ฝึกการวางแผนและการแบ่งบทบาทในทีม เพื่อเพิ่มประสิทธิภาพในการพัฒนาซอฟต์แวร์และการส่งมอบงานอย่างเป็นระบบ
-
 - **เข้ารอบรมการวิเคราะห์และวางโครงสร้างโมเดลธุรกิจผ่าน Business Model Canvas พร้อมทั้งประยุกต์ใช้เครื่องมือ AI ในการวิเคราะห์ความเป็นไปได้ การค้นคว้าข้อมูล และการวางแผนกลยุทธ์เพื่อแก้ปัญหาทางธุรกิจจริง (2569)**
 
 ---
