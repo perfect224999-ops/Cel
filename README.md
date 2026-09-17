@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:BAE6FD,100:0284C7&height=250&section=header&text=Banyaphon%20Phontha&fontSize=42&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18&descColor=334155"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:BAE6FD,100:0284C7&height=250&section=header&text=Banyaphon%20Phontha&fontSize=42&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=334155"
     width="100%"
   />
 </p>
@@ -27,23 +27,26 @@
   <a href="https://github.com/perfect224999-ops/Cel">
     <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/usqsssutsq/">
+    <img src="https://img.shields.io/badge/Instagram-usqsssutsq-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 # 🚀 เกี่ยวกับฉัน
 
-ผมชื่อเติ้ลครับ ใกล้จะจบชั้นปีที่ 4 แล้วและกำลังจะเข้าสู่ช่วงฝึกงาน ผมอยากที่จะฝึกงาน ในตำแหน่งของ Backend developer ครับ ผมอยากทำงานในตำแหน่งนี้เพราะว่า ผมชอบในส่วนของการทำงานหลังบ้านมากกว่าหน้าบ้านครับเพราะออกแบบไม่ค่อยเก่งเท่าไหร่แต่ก็พอไปได้ครับ ส่วนภาษาที่ผมได้เรียนมาในห้องเรียนก็มี java, Springboot, MySQL และส่วนที่ศึกษาด้วยตัวเองก็จะมี Next.js, TypeScript, RESTful APIs ที่กำลังศึกษาอยู่เรื่อยๆครับ
+สวัสดีครับ ผมชื่อเติ้ล ปัจจุบันเป็นนักศึกษาชั้นปีที่ 4 กำลังมองหาโอกาสฝึกงานในตำแหน่ง **Full Stack Developer** โดยมีความถนัดด้านการออกแบบและจัดการระบบ Backend ด้วย Java, Spring Boot และ MySQL รวมถึงสามารถพัฒนาฝั่ง Frontend และเชื่อมต่อระบบด้วย Next.js, TypeScript และ RESTful APIs ได้อย่างมีประสิทธิภาพ พร้อมเรียนรู้เทคโนโลยีใหม่ๆ และมุ่งมั่นที่จะพัฒนาเว็บแอปพลิเคชันอย่างครบวงจรครับผม
 
 ---
 
 ## 🛠️ ทักษะทางเทคนิค
 
-- **Programming Languages :** java, Go, JavaScript, TypeScript
-- **Backend Development :** RESTful APIs, Springboot, Go
+- **Programming Languages :** Java, Go, JavaScript, TypeScript
+- **Backend Development :** RESTful APIs, Spring Boot, Go
 - **Frontend Development :** React, Next.js, HTML, CSS
-- **Databases :** Mysql
-- **Tool & Testing :** GitHub ,Robot Framework ( Browser Library), AI Claude, chatGPT, gemini, Antigravity ide, Postman, Docker
+- **Databases :** MySQL
+- **Tools & Testing :** GitHub, Robot Framework (Browser Library), AI Claude, ChatGPT, Gemini, Antigravity IDE, Postman, Docker
 
 <div align="center">
 
@@ -70,14 +73,14 @@
 
 ## 📌 โปรเจกต์
 
-### แพลตฟอร์มการท่องเที่ยวอุทยานแห่งชาติอย่างยั่งยืน `2568`
-**(GreenPass Thailand)** `2569`  
+### แพลตฟอร์มการท่องเที่ยวอุทยานแห่งชาติอย่างยั่งยืน `2568 - 2569`
+**(GreenPass Thailand)**  
 **รับผิดชอบหน้าที่ในส่วนของ เว็บไซต์ Full-Stack Web Developer**
 
-🔗 **Github backend :** https://github.com/perfect224999-ops/GreenPass-Backend  
-🔗 **Github frontend :** https://github.com/perfect224999-ops/GreenPass-Frontend  
+🔗 **Github backend :** https://github.com/Hippro2004/github-greenpass-backend  
+🔗 **Github frontend :** https://github.com/perfect224999-ops/Frontend  
 
-**รับผิดชอบหลัก :** ออกแบบและพัฒนา Web Application แบบ Full-Stack ทั้งฝั่งผู้ใช้ทั่วไป เจ้าหน้าที่อุทยาน และ ผู้ดูแลระบบ ด้วย Next.js, Spring boot และ MySQL
+**รับผิดชอบหลัก :** ออกแบบและพัฒนา Web Application แบบ Full-Stack ทั้งฝั่งผู้ใช้ทั่วไป เจ้าหน้าที่อุทยาน และ ผู้ดูแลระบบ ด้วย Next.js, Spring Boot และ MySQL
 
 - **Admin & Role Management :** ออกแบบและพัฒนา RESTful APIs สำหรับระบบจัดการสิทธิ์ผู้ใช้งาน และจัดการข้อมูลเจ้าหน้าที่อุทยาน รวมถึงระบบสะสมรางวัล
 - **Emergency & Incident Tracking :** พัฒนา API รับแจ้งเหตุฉุกเฉิน realtime และระบบติดตามสถานะ เพื่อประสานงานช่วยเหลือได้ทันที
@@ -88,9 +91,9 @@
 
 ## 📜 การอบรมที่เคยเข้าร่วม
 
-- **เข้ารอบรมเชิงปฏิบัติการเพื่อเรียนรู้กระบวนการทำงานแบบ Agile/Scrum (2568)**  
+- **เข้ารับการอบรมเชิงปฏิบัติการเพื่อเรียนรู้กระบวนการทำงานแบบ Agile/Scrum (2568)**  
   ฝึกการวางแผนและการแบ่งบทบาทในทีม เพื่อเพิ่มประสิทธิภาพในการพัฒนาซอฟต์แวร์และการส่งมอบงานอย่างเป็นระบบ
-- **เข้ารอบรมการวิเคราะห์และวางโครงสร้างโมเดลธุรกิจผ่าน Business Model Canvas พร้อมทั้งประยุกต์ใช้เครื่องมือ AI ในการวิเคราะห์ความเป็นไปได้ การค้นคว้าข้อมูล และการวางแผนกลยุทธ์เพื่อแก้ปัญหาทางธุรกิจจริง (2569)**
+- **เข้ารับการอบรมการวิเคราะห์และวางโครงสร้างโมเดลธุรกิจผ่าน Business Model Canvas พร้อมทั้งประยุกต์ใช้เครื่องมือ AI ในการวิเคราะห์ความเป็นไปได้ การค้นคว้าข้อมูล และการวางแผนกลยุทธ์เพื่อแก้ปัญหาทางธุรกิจจริง (2569)**
 
 ---
 
@@ -106,3 +109,4 @@
 - 📱 **Phone:** 064-903-5124
 - 📧 **Email:** perfect224999@gmail.com
 - 🐙 **GitHub:** https://github.com/perfect224999-ops/Cel
+- 📸 **Instagram:** https://www.instagram.com/usqsssutsq/
