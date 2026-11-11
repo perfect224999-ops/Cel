@@ -107,6 +107,6 @@
 ## 📞 ติดต่อ
 
 - 📱 **Phone:** 064-903-5124
-- 📧 **Email:** perfect224999@gmail.com
+- 📧 **Email:** banyaphon.pholtha@gmail.com
 - 🐙 **GitHub:** https://github.com/perfect224999-ops/Cel
 - 📸 **Instagram:** https://www.instagram.com/usqsssutsq/
