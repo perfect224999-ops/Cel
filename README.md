@@ -1,14 +1,13 @@
-
 <!-- ========================= Banner ========================= -->
 <p align="center">
   <a href="https://github.com/perfect224999-ops">
-    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/perfect224999-ops/Cel/main/Jakkphat.jpg&w=300&h=300&fit=cover&mask=circle&border=10,0284c7" width="160" height="160" alt="Banyaphon Phontha Profile" />
+    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/perfect224999-ops/Cel/main/Jakkphat.jpg&w=300&h=300&fit=cover&mask=circle&border=10,0284c7" width="160" height="160" alt="Banyaphon Pholtha Profile" />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:BAE6FD,100:0284C7&height=250&section=header&text=Banyaphon%20Phontha&fontSize=42&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=334155"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:BAE6FD,100:0284C7&height=250&section=header&text=Banyaphon%20Pholtha&fontSize=42&fontColor=0F172A&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=18&descColor=334155"
     width="100%"
   />
 </p>
