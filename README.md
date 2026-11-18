@@ -1,7 +1,7 @@
 <!-- ========================= Banner ========================= -->
 <p align="center">
   <a href="https://github.com/perfect224999-ops">
-    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/perfect224999-ops/Cel/main/tle.jpg&w=300&h=300&fit=cover&mask=circle&border=10,0284c7" width="160" height="160" alt="Banyaphon Phontha Profile" />
+    <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/perfect224999-ops/Cel/main/พอดแตกคมๆ.jpg&w=300&h=300&fit=cover&mask=circle&border=10,0284c7" width="160" height="160" alt="Banyaphon Phontha Profile" />
   </a>
 </p>
 
