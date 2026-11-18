@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:perfect224999@gmail.com">
-    <img src="https://img.shields.io/badge/Email-perfect224999%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:banyaphon.pholtha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-banyaphon.pholtha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/perfect224999-ops/Cel">
     <img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
